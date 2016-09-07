@@ -1,4 +1,4 @@
-prefix=/home/lucas/m3-toolchain-lmagder/arm-cortexa9_neon-linux-gnueabi/sysroot/usr
+prefix=/usr
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include/gstreamer-0.10

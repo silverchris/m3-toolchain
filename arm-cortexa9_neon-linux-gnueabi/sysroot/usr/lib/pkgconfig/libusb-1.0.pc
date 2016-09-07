@@ -1,4 +1,4 @@
-prefix=/home/jmgao/mzd/m3-toolchain/arm-cortexa9_neon-linux-gnueabi/sysroot/usr
+prefix=/usr
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
