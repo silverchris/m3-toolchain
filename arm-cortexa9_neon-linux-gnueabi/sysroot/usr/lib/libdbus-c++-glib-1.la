@@ -5,10 +5,10 @@
 # It is necessary for linking the library.
 
 # The name that we can dlopen(3).
-dlname='libdbus-c++-glib-1.so.2'
+dlname='libdbus-c++-glib-1.so.0'
 
 # Names of this library.
-library_names='libdbus-c++-glib-1.so.2.1.0 libdbus-c++-glib-1.so.2 libdbus-c++-glib-1.so'
+library_names='libdbus-c++-glib-1.so.0.0.0 libdbus-c++-glib-1.so.0 libdbus-c++-glib-1.so'
 
 # The name of the static archive.
 old_library='libdbus-c++-glib-1.a'
