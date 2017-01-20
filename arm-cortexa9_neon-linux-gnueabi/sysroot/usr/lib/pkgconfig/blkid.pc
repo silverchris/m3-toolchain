@@ -5,7 +5,7 @@ includedir=${prefix}/include
 
 Name: blkid
 Description: Block device id library
-Version: UNKNOWN..0
+Version: 2.20
 Requires.private: uuid
 Cflags: -I${includedir}/blkid
 Libs: -L${libdir} -lblkid
